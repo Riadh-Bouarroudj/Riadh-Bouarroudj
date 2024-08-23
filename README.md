@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Riadh Bouarroudj</h1>
 <h3 align="center">A Data Scientist pursuing a Ph.D. in Artificial Intelligence and Signal Processing. I am passionate about AI and emerging trends in the tech world and computer science.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riadh-bouarroudj" alt="riadh-bouarroudj" /></a> </p>
 
 - 🔭 I’m currently working on **Artificial Intelligence, Machine Learning, and Signal Processing projects**
 
 - 📝 I regularly write scientific articles [https://www.researchgate.net/profile/Riadh-Bouarroudj](https://www.researchgate.net/profile/Riadh-Bouarroudj)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
