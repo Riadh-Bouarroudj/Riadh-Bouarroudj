@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Riadh Bouarroudj</h1>
+<h1 align="center">Hi, I am Riadh Bouarroudj</h1>
 <h3 align="center">A passionate software engineer pursuing a Ph.D. in Artificial Intelligence and Signal Processing.</h3>
 
 - 🔭 I am currently working on **Artificial Intelligence, Machine Learning, and Signal Processing projects**
