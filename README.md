@@ -7,7 +7,7 @@
 
 - 👯 I can help you with your **Python project**
 
-- 🤝 I am looking for **appointment_with_company**
+<!-- - 🤝 I am looking for **appointment_with_company** -->
 
 - 👨‍💻 My projects are available at [https://github.com/Riadh-Bouarroudj](https://github.com/Riadh-Bouarroudj)
 
